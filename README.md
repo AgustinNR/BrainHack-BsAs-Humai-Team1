@@ -140,11 +140,6 @@ At the end of this project, the following files will be made available:
 * Our presentation shared at the end of the BrainHack meeting at Humai Institute.
 
 
-## Results
-VER DE EJEMPLO https://school-brainhack.github.io/project/using_a_machine_learning_model_trained_on_functional_connectivity_patterns_to_predict_adhd/
-### Progress overvie
- 
-
 ### Results
 
 #### Deliverable 1: Markdown document:
@@ -158,7 +153,8 @@ https://github.com/AgustinNR/BrainHack-BsAs-Humai-Team1
 
 #### Deliverable 3: "ADHD_fRMI_ROI_Classification_Project.ipynb" notebook:
 
-You can access our public notebook with the step-by-step process in the Github repository: 
+You can access our public notebook with the step-by-step process in the Github repository:
+
 https://github.com/AgustinNR/BrainHack-BsAs-Humai-Team1/blob/main/notebooks/ADHD_fRMI_ROI_Classification_Project.ipynb
 
 #### Deliverable 4: Figures of our results:
@@ -189,6 +185,7 @@ The importance values are relatively close, ranging approximately from 0.004 to 
 #### Deliverable 5: Our presentation shared at the end of the BrainHack meeting at Humai Institute
 
 You can find the slides of our presentation in the Github repository: 
+
 https://github.com/AgustinNR/BrainHack-BsAs-Humai-Team1/blob/main/ADHD%20Classification%20Project%20-%20Team%201%20Humai%20-%20Brainhack_2024.pdf
 
 
