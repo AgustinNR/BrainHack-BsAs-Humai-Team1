@@ -205,6 +205,17 @@ Finally, we would like to express our gratitude to our teaching assistants from 
 
 <img src="https://github.com/fcovelli/project-readme/assets/169564890/ffca62e3-ac11-4409-a444-0210ef44e80a" alt="HUMAI LOGO" width="200" height="200">
 
+## Feel free to contact us :D
+
+If you need assistance with your artificial intelligence project, we would be happy to help!
+
+  **Francisco Covelli:** fcovelli@med.unlp.edu.ar
+
+  **Agustin Rodriguez:** agurodri96@hotmail.com
+
+  **Ezequiel Sirne:** ezequielsirne@gmail.com
+
+
 
 ## References
 Zhu CZ, Zang YF, Cao QJ, Yan CG, He Y, Jiang TZ, Sui MQ, Wang YF. Fisher discriminative analysis of resting-state brain function for attention-deficit/hyperactivity disorder. Neuroimage. 2008 Mar 1;40(1):110-20. doi: 10.1016/j.neuroimage.2007.11.029. Epub 2007 Dec 3. PMID: 18191584.
