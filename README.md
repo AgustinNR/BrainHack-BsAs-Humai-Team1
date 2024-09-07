@@ -62,7 +62,7 @@ Attention-Deficit/Hyperactivity Disorder, or ADHD, is characterized by inattenti
 
    <img src="https://raw.githubusercontent.com/fcovelli/project-readme/main/Estructural%20MRI%20sin%20atlas.png" alt="ATLAS" width="450" height="508">
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/fcovelli/project-readme/raw/main/GIF%20BOLD.gif" alt="GIF de ejemplo" width="400" height="auto">
 </p>
 
